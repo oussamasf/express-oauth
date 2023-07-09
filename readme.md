@@ -1,4 +1,4 @@
-# Express App with OAuth 2.0 Authentication using Google Passport
+# Express App with OAuth 2.0 Authentication using Passport
 
 This is a simple Express application that demonstrates how to implement OAuth 2.0 authentication using Google Passport. It provides a foundation for integrating Google authentication into your web applications.
 
